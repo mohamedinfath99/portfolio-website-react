@@ -1,0 +1,54 @@
+
+.contact{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    height: 100vh;
+    align-items: center;
+}
+
+.contact > h1{
+    margin-top: 120px;
+    text-transform: uppercase;
+}
+
+
+.Contact__Container{
+    border: 1px solid white;
+    width: 600px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+    margin-top: 100px;
+}
+
+.Contact__Container > p{
+    font-size: 20px;
+    text-align: left;
+    padding-bottom: 30px;
+}
+
+.Contact__Container > p > span{
+    color: tomato;
+}
+
+
+.Contact__Container > p > a > span{
+    color: tomato;
+}
+
+
+
+.MuiSvgIcon-root {
+    color: white;
+    font-size: 50px !important;
+
+}
+
+.contact__icons__img > img {
+    width: 300px;
+    height: 150px;
+}

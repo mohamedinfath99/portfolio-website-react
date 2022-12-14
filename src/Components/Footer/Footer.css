@@ -1,0 +1,16 @@
+
+
+.footer{
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    background-color: bisque;
+    
+
+}
+
+.footer > p {
+    color: rgb(11, 11, 11);
+} 
